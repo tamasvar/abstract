@@ -1,0 +1,7 @@
+C:\Users\Tanulo\source\repos\abstract\abstract\bin\Debug\@abstract.exe.config
+C:\Users\Tanulo\source\repos\abstract\abstract\bin\Debug\@abstract.exe
+C:\Users\Tanulo\source\repos\abstract\abstract\bin\Debug\@abstract.pdb
+C:\Users\Tanulo\source\repos\abstract\abstract\obj\Debug\abstract.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\abstract\abstract\obj\Debug\abstract.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\abstract\abstract\obj\Debug\@abstract.exe
+C:\Users\Tanulo\source\repos\abstract\abstract\obj\Debug\@abstract.pdb
